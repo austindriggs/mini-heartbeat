@@ -7,8 +7,9 @@ Handles text rendering, heart animations, and custom message sequences.
 
 
 
-import max7219
 from time import sleep
+
+import max7219
 import hearts
 import alphabet
 
