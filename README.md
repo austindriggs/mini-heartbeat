@@ -2,7 +2,11 @@
 
 A MicroPython project for the Raspberry Pi Pico that drives a MAX7219 8x8 LED Matrix that features heartbeat animations, custom-designed fonts, and a terminal interface.
 
-TODO_GIF
+<a href="https://youtu.be/J6t5J2ZZkJU?si=F_Cc42BRk_-zXlft" target="_blank">
+  <img src="/support/mini-heartbeat.jpg" alt="Mini Heartbeat YouTube Demo" width="1000" style="border:0;">
+</a>
+
+> Click the image above to see a video demo on YouTube.
 
 
 ## FILE STRUCTURE
